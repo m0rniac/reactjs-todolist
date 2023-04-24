@@ -27,7 +27,7 @@ const App = () => {
 	const [searchText, setSearchText] = useState('');
 
 	const addNote = (text) => {
-		nextUUID = uuidv4();
+		const nextUUID = uuidv4();
 		const date = new Date();
 		const newNote = {
 			id: nextUUID,
