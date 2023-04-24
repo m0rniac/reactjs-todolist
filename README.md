@@ -13,7 +13,7 @@ A simple project builded with JavaScript Framework and administred with ViteJS.
 
 
 ## Deployment
-* You can see the web deployment [by clicking here](https://reactjs-calculator-kappa.vercel.app/)
+* You can see the web deployment [by clicking here](https://reactjs-todolist-eight.vercel.app/)
 
 
 ### Installation
